@@ -1,0 +1,51 @@
+button.button-submit{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 10px;
+}
+
+button.button-reset{
+    background-color: yellow;
+    border: none;
+    color:maroon;
+    padding: 10px;
+}
+
+button.modal-buttons{
+    background-color: maroon;
+    border: none;
+    color: yellow;
+}
+
+button.pup-buttons{
+    background-color: maroon;
+    border: none;
+    color: yellow;
+}
+
+button.pup-buttons-bordered{
+    background-color: maroon;
+    border: 8px #FFD700;
+    color: yellow;
+}
+
+button.pup-buttons-bordered-reverse{
+    background-color:yellow;
+    border: 8px #800000;
+    color: maroon;
+    padding: 10px;
+}
+
+h1.revamp{
+    color:yellow;
+}
+h5.revamp{
+    color:yellow;
+}
+span.revamp{
+    color: yellow;
+}
+form.header-text{
+    font-size: 16px;
+}
